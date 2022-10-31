@@ -105,7 +105,6 @@ dk7rftbivnkgr.cloudfront.net
 dolohen.com
 downloadgot.com
 dqqulesm3pfse.cloudfront.net
-dubshub.com$script,third-party
 dulcetcgvcxr.com
 dzbx8qv1at614.cloudfront.net
 e93-apps.com
@@ -212,7 +211,6 @@ mesiniklan.andipublisher.com
 mgid.com
 mobile.foma-ds.com
 mobile.pipe.aria.microsoft.com
-mrperfect.in$script,third-party
 mybannermaker.com
 net-s-sof-t-open.site
 newopenx.detik.com
